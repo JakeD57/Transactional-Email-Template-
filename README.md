@@ -1,6 +1,5 @@
 # Transactional-Email-Template-
-A transactional email template for a burger restaurant. 
-Designs were created using canva. Style tags were used for CSS but a CSS inliner (campaign monitor) will be utilized when testing and deploying the email.
+A transactional email template Design.
 
 [Link to Live Preview!](https://htmlpreview.github.io/?https://github.com/JakeD57/Transactional-Email-Template-/blob/master/index.html)
 <hr>
